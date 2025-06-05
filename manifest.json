@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "IMDb Notes na Netflix",
+  "version": "1.0",
+  "description": "Mostra a nota do IMDb ao passar o mouse sobre filmes na Netflix",
+  "permissions": ["activeTab", "scripting"],
+  "host_permissions": ["https://www.omdbapi.com/"],
+  "content_scripts": [
+    {
+      "matches": ["*://www.netflix.com/*"],
+      "js": ["content.js"]
+    }
+  ],
+  "icons": {
+    "48": "icon.png"
+  }
+}
