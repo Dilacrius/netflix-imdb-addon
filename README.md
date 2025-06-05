@@ -1,6 +1,6 @@
 # 🎬 Netflix Ratings Tooltip v0.1
 
-Extensão de usuário (userscript) para exibir notas de filmes e séries diretamente na interface da Netflix! Ao passar o mouse sobre um título, um balão (tooltip) aparece com as notas do IMDb, Rotten Tomatoes e Metacritic.
+Extensão de usuário para exibir notas de filmes e séries diretamente na interface da Netflix! Ao passar o mouse sobre um título, um balão (tooltip) aparece com as notas do IMDb, Rotten Tomatoes e Metacritic.
 
 > ⚠️ **Versão 0.1** — Funciona melhor com a interface da Netflix em inglês (🇺🇸). Isso garante que os títulos localizados sejam compatíveis com a OMDb API.
 
