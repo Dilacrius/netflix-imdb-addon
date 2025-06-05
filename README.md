@@ -20,7 +20,7 @@ Extensão de usuário para exibir notas de filmes e séries diretamente na inter
 
 - Crie uma pasta no seu computador, por exemplo: netflix-imdb-addon.
 - Salve os arquivos manifest.json, content.js e icon.png nessa pasta.
-No Chrome:
+# No Chrome:
 - Vá para chrome://extensions/
 - Ative o modo de desenvolvedor (canto superior direito).
 - Clique em "Carregar sem compactação" e selecione a pasta da extensão.
